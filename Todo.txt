@@ -1,0 +1,10 @@
+Make the site add apikey & request it like steam.
+Means:
+- Add option to add a website/ip where we can enable to post data to.
+- Generate the apikey & store it with ip/weblink.
+- On API connection/requests:
++ Already had apikey check.
++ Check if the requested ip/web is same as the stored ip with the key.
+If not we just return nothing, if true we will continue the request.
+
+Request panel:

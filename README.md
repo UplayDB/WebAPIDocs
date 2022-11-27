@@ -40,3 +40,6 @@ Just enter your credentians again and you get the same key!
 You can use your Key,Name,Secret on Reqbin:\
 \
 ![Reqbin1](https://raw.githubusercontent.com/UplayDB/WebAPIDocs/main/reqbin/reqbin1.png "Reqbin1")
+
+Time is UTC format\
+Hour : Minute : Seconds

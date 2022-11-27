@@ -39,5 +39,4 @@ Just enter your credentians again and you get the same key!
 # Reqbin
 You can use your Key,Name,Secret on Reqbin:\
 \
-![Six](https://raw.githubusercontent.com/UplayDB/WebAPIDocs/main/reqbin/6.png "Six")
-![Seven](https://raw.githubusercontent.com/UplayDB/WebAPIDocs/main/reqbin/7.png "Seven")
+![Reqbin1](https://raw.githubusercontent.com/UplayDB/WebAPIDocs/main/reqbin/reqbin1.png "Reqbin1")

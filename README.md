@@ -5,13 +5,14 @@ All this is under construction!
 Currently usable API LINKS:\
 It always start with: "api/"
 - app
-- app_main
+- main
 - app_hub
 - app_info
-- app_db
+- name
 - files
 - manifest
-- apikey (Cannot access via APIKEY)
+- brandname
+- spacename
 
 
 

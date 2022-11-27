@@ -24,24 +24,20 @@ It always start with: "api/"
 When you want to create a new API Key, you go to [WebSiteURL]/apikey and you see this:\
 \
 ![First](https://raw.githubusercontent.com/UplayDB/WebAPIDocs/main/apikey/1.png "First")
-Fill your data like this:\
+Fill your data\
 \
 ![Second](https://raw.githubusercontent.com/UplayDB/WebAPIDocs/main/apikey/2.png "Second")
-You will get like this:\
+You should get your APIKEY\
 \
 ![Third](https://raw.githubusercontent.com/UplayDB/WebAPIDocs/main/apikey/3.png "Third")
 \
 \
-Or If you want to check your key or link you can do like this:\
-\
-![Four](https://raw.githubusercontent.com/UplayDB/WebAPIDocs/main/apikey/4.png "Four")
-And you get like this:\
-\
-![Five](https://raw.githubusercontent.com/UplayDB/WebAPIDocs/main/apikey/5.png "Five")
+Just enter your credentians again and you get the same key!
+
 
 
 # Reqbin
-You can use your Key on Reqbin or anywhere like this:\
+You can use your Key,Name,Secret on Reqbin:\
 \
 ![Six](https://raw.githubusercontent.com/UplayDB/WebAPIDocs/main/reqbin/6.png "Six")
 ![Seven](https://raw.githubusercontent.com/UplayDB/WebAPIDocs/main/reqbin/7.png "Seven")
